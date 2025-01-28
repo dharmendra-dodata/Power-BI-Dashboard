@@ -1,6 +1,6 @@
 # Power-BI Dashboard
 
-![Portfolio Dashboard] {Screenshot 2025-01-28 224743.png}
+![Portfolio Dashboard] {portfolio-dashboard-screenshot.png}
 
 ## To See the full dashboard follow below steps:
 1. Download the `.pbix` file from this repository.
